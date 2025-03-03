@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "file.h": "c",
+        "parser.h": "c",
+        "stdio.h": "c",
+        "types.h": "c",
+        "fcntl.h": "c",
+        "unistd.h": "c",
+        "main.h": "c",
+        "stdint.h": "c",
+        "compare": "c",
+        "getopt.h": "c"
+    }
+}
